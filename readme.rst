@@ -27,4 +27,4 @@ updated by running the following example command on a test python programme.
 
 .. code-block:: bash
 
-python commentStripper.py -w -i test.py -o test_out.py
+  python commentStripper.py -w -i test.py -o test_out.py
