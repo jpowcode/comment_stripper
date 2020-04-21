@@ -8,8 +8,8 @@ difficult to see large portions of actual code that is not a comment on the
 screen. I've written a program that will extract the comments from a file and
 write a new file without the comments. This program as act as a watcher that
 continually waits for a change to made to the file with comments and writes to
-the commentless file. Now this may be a feature that is available in some
-IDE's, but I use `ATOM <https://atom.io/>`__ and I couldn't find anything that
+the comment-less file. Now this may be a feature that is available in some
+IDEs, but I use `ATOM <https://atom.io/>`__ and I couldn't find anything that
 would do this for me.
 The way I set up ATOM is with two windows, one on the left with the file
 including comments (which I make edits in) and one on the right which contains
