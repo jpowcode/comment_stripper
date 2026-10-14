@@ -10,6 +10,7 @@ def find_file_type(infile):
                   'c': 'c', 'cpp': 'c++', 'cxx': 'c++', 'cXX': 'c++',
                   'lhs': 'haskell', 'hs': 'haskell',
                   'js': 'js',
+                  'ts': 'js',
                   'html': 'html',
                   'rc': 'rust',
                   'clj': 'clojure', 'cljs': 'clojure', 'cljc': 'clojure',
